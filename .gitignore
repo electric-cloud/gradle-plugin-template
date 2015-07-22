@@ -1,5 +1,5 @@
 .gradle
-build
+/build
 .idea
 /bin/
 .classpath
@@ -7,4 +7,5 @@ build
 .settings
 *.iml
 *~
-
+/target
+/export
